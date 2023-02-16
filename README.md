@@ -1,2 +1,1 @@
-# delegator
-The Delegator
+# The Delegator
